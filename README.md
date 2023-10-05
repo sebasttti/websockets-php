@@ -1,70 +1,35 @@
-Title
+Websockets PHP
 ===
-Abstract:xxx
-## Papar Information
-- Title:  `paper name`
-- Authors:  `A`,`B`,`C`
-- Preprint: [https://arxiv.org/abs/xx]()
-- Full-preprint: [paper position]()
-- Video: [video position]()
+A basic repo that makes a connection between frontend using plain JS and Backend using PHP.
 
-## Install & Dependence
-- python
-- pytorch
-- numpy
+## Requirements
 
-## Dataset Preparation
-| Dataset | Download |
-| ---     | ---   |
-| dataset-A | [download]() |
-| dataset-B | [download]() |
-| dataset-C | [download]() |
-
-## Use
-- for train
-  ```
-  python train.py
-  ```
-- for test
-  ```
-  python test.py
-  ```
-## Pretrained model
-| Model | Download |
-| ---     | ---   |
-| Model-1 | [download]() |
-| Model-2 | [download]() |
-| Model-3 | [download]() |
+- Updated Web Browser
+- PHP 5.3 or above
 
 
-## Directory Hierarchy
-```
-```
-## Code Details
-### Tested Platform
-- software
-  ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
-  PyTorch: 1.7.1, 1.8.1
-  ```
-- hardware
-  ```
-  CPU: Intel Xeon 6226R
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-### Hyper parameters
-```
-```
-## References
-- [paper-1]()
-- [paper-2]()
-- [code-1](https://github.com)
-- [code-2](https://github.com)
-  
-## License
+## Installation
 
-## Citing
-If you use xxx,please use the following BibTeX entry.
+There is no need of installing dependencies or anything else
+
+## Usage
+
+Run this command on the donwloaded folder
+
 ```
+  php -S localhost:8000
 ```
+And the project will run on localhost in port 8000
+
+## Contributing
+
+For the moment, I'm not accepting Pull Request, but feel free to use the code in your own projects
+
+## Acknowledgments
+
+I want to aknowledge Codigo Facilito for making this fantastic [video](https://www.youtube.com/watch?v=vBjfAmH67fg) about how a websocket works
+
+## Licence
+
+
+[MIT](https://choosealicense.com/licenses/mit/) Feel free to download, change and use this repo
